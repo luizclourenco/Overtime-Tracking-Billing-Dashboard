@@ -29,7 +29,6 @@ Automated dashboard that:
 
 ## Impact
 - ✅ 100% overtime detection (vs manual checking)
-- ✅ R$ 720 recovered in January 2026 alone
 - ✅ Eliminated manual reservation-by-reservation process
 - ✅ Real-time billing accuracy with audit trail
 
