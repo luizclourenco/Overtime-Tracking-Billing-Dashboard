@@ -37,5 +37,4 @@ Automated dashboard that:
 ### Overtime Detection Table
 <img width="1301" height="740" alt="image" src="https://github.com/user-attachments/assets/7b9b89a6-5f48-4030-af73-ac4f7e9ea9cb" />
 
-### Billing Summary
-<img width="1547" height="824" alt="image" src="https://github.com/user-attachments/assets/412aed45-85b0-43f0-b5dc-f57eca939dcc" />
+
